@@ -1,2 +1,5 @@
-# doctrina-ad-programmata
-Aprendendo Programação
+# Doctrina ad programmata
+
+## Aprendendo Programação na DIO
+
+### Repositório para códigos de exercicios
